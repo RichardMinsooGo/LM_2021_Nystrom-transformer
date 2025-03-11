@@ -1,4 +1,4 @@
-<img src="./diagram.png" width="500px"></img>
+<img src="./diagram.png" width="800px"></img>
 
 ## Nyström Attention
 
